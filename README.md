@@ -18,7 +18,7 @@ Built using **Power BI**, this dashboard helps stakeholders make data-driven dec
 ## 📂 Project Files
 
 ### 📊 Power BI Dashboard
-[Download Executive Dashboard](https://github.com/msameerhanif/SMH-Analytics-PowerBIDashboard/blob/main/Dashboard/Executive%20Dashboard.pbix)
+[Download Executive Dashboard](https://github.com/msameerhanif/SMH-Analytics-PowerBI-Dashboard/blob/main/Dashboard/Executive%20Dashboard.pbix)
 
 ---
 
