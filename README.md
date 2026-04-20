@@ -15,6 +15,19 @@ This dashboard provides a complete business intelligence solution including:
 
 Built using **Power BI**, this dashboard helps stakeholders make data-driven decisions efficiently.
 
+## 📂 Project Files
+
+### 📊 Power BI Dashboard
+[Download Executive Dashboard](https://github.com/msameerhanif/SMH-Analytics-PowerBIDashboard/blob/main/Dashboard/Executive%20Dashboard.pbix)
+
+---
+
+### 📸 Screenshots
+
+- [View Dashboard Overview](https://github.com/msameerhanif/SMH-Analytics-PowerBI-Dashboard/blob/main/Screenshots/dashboard_overview.PNG)
+- [View Calendar View](https://github.com/msameerhanif/SMH-Analytics-PowerBI-Dashboard/blob/main/Screenshots/calendar_view.PNG)
+
+
 ---
 
 ## 📌 Key Features
